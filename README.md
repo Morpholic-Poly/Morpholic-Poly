@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Morpholic-Poly
-- 👀 I’m interested in machine learning & Blender scripting
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python for Blender
 - ✨ I know: HTML, CSS
 
 <!---
